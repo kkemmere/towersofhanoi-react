@@ -4,4 +4,4 @@
 <br/>
 
 ### Issues
-- Application works locally but when deploying to gh-pages it seems to mess with one of the useStates
+- Application works locally but when deploying to gh-pages it seems to mess with disc configuration
