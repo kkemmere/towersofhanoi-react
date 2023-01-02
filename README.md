@@ -1,5 +1,5 @@
 # Towers of Hanoi in React
 
-# GUI
+## GUI
 ![React]()
 <br/>
